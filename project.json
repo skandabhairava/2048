@@ -1,0 +1,12 @@
+{
+  "name": "2048",
+  "short_description": "2048 game on command line",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "2048.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}
